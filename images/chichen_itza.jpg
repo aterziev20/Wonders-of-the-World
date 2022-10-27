@@ -1,0 +1,771 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, user-scalable=no" />
+<meta name="theme-color" content="#C20F5A">
+<link rel="shortcut icon" type="image/x-icon" href="/public/assets/img/favicon.ico" />
+<title>Chichen Itza Ruins | Ancient buildings found at Chichen Itza</title>
+<meta name="description" content="Check out the Chichen Itza buildings to see at the Mayan Site. Chichen Itza Ruins are full of history and culture of the Maya.">
+<meta name="keywords" content="">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@ChichenItza_">
+<meta name="twitter:creator" content="@ChichenItza_">
+<meta name="twitter:title" content="Chichen Itza Ruins | Ancient buildings found at Chichen Itza">
+<meta name="twitter:description" content="Check out the Chichen Itza buildings to see at the Mayan Site. Chichen Itza Ruins are full of history and culture of the Maya.">
+<meta name="twitter:image" content="https://www.chichenitza.com/public/assets/img/ruins/temple-of-the-warriors.jpg">
+<meta property="og:image" content="https://www.chichenitza.com/public/assets/img/ruins/temple-of-the-warriors.jpg">
+<meta property="og:image:type" content="image/*">
+<meta property="og:image:width" content="1024">
+<meta property="og:image:height" content="1024">
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.chichenitza.com/ruins" />
+<meta property="og:title" content="Chichen Itza Ruins | Ancient buildings found at Chichen Itza" />
+<meta property="og:description" content="Check out the Chichen Itza buildings to see at the Mayan Site. Chichen Itza Ruins are full of history and culture of the Maya." />
+<link rel="stylesheet" href="/public/assets/css/bulma.min.css?ver=3.2.4">
+<link rel="stylesheet" href="/public/assets/css/web.css?ver=3.2.4">
+<link rel="stylesheet" href="/public/assets/css/libs.css?ver=3.2.4">
+
+<link rel='alternate' hreflang='x-default' href='https://www.chichenitza.com/ruins' />
+<link rel='alternate' hreflang='en' href='https://www.chichenitza.com/ruins' />
+<link rel='alternate' hreflang='es' href='https://www.chichenitza.com/es/ruinas-mayas' />
+<link rel='alternate' hreflang='fr' href='https://www.chichenitza.com/fr/ruines-mayas' />
+<link rel='alternate' hreflang='pt' href='https://www.chichenitza.com/pt/ruinas-maias' />
+<link rel='alternate' hreflang='it' href='https://www.chichenitza.com/it/rovine-maya' />
+<script defer src="https://kit.fontawesome.com/94233a6903.js" crossorigin="anonymous"></script>
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+    window.OneSignal = window.OneSignal || [];
+    OneSignal.push(function() {
+        OneSignal.init({
+        appId: "0223fa7a-7771-4f77-971d-ceda01279b5b",
+        });
+    });
+    </script>
+
+<script type="application/ld+json">
+{
+	"@context": "https://schema.org",
+	"@type": "LocalBusiness",
+	"@id": "https://www.chichenitza.com",
+	"url": "https://www.chichenitza.com",
+	"name": "Chichen Itza",
+	"image": "https://www.chichenitza.com/public/assets/img/chichen-itza-org.png",
+	"sameAs": [
+		"https://www.chichenitza.com",
+		"https://www.cancunairporttransportation.business.site",
+		"https://www.facebook.com/ChichenItzaMayanRuins",
+		"https://twitter.com/ChichenItza_",
+		"https://www.instagram.com/chichenitza_/",
+		"https://www.pinterest.com.mx/chichenitzamayansite/",
+		"https://www.linkedin.com/company/chichen-itza",
+		"https://www.tripadvisor.com/Attraction_Review-g150808-d153407-Reviews-Chichen_Itza-Chichen_Itza_Yucatan_Peninsula.html"
+	],
+	"address": {
+		"@type": "PostalAddress",
+		"streetAddress": "Carr. Costera del Golfo",
+		"addressLocality": "Chichen Itza",
+		"addressRegion": "Yucatan",
+		"postalCode": "97751",
+		"addressCountry": "MEX"
+	},
+	"telephone": "+52 999 635 4597",
+	"geo": {
+		"@type": "GeoCoordinates",
+		"latitude": 20.6840396,
+		"longitude": -88.5697358
+	},
+	"priceRange": "79 USD – 745 USD"
+}
+</script>
+
+</head>
+<body data-timeh="8">
+
+<div class="show-booking"><span>BOOK A TOUR</span></div>
+<div class="booking-over">
+<div class="columns is-relative">
+<div class="column is-8 is-full-desktop is-engine">
+<form action="https://www.chichenitza.com/chichen-itza-booking" autocomplete="off" class="columns is-multiline is-variable is-4" method="post" accept-charset="utf-8">
+<fieldset class="column is-half field is-marginless">
+<label class="label" for="username">The Tour</label>
+<div class="control select is-medium">
+<select name="tource" id="tource" class="select">
+<option value="classic">Chichen Itza Classic</option>
+<option value="express">Chichen Itza Express</option>
+<option value="plus">Chichen Itza Plus</option>
+<option value="deluxe">Chichen Itza Deluxe</option>
+<option value="diamante">Chichen Itza Diamante</option>
+<option value="private">Private Chichen Itza</option>
+<option value="luxury">Luxury Chichen Itza</option>
+</select>
+</div>
+</fieldset>
+<fieldset class="column is-half field is-marginless">
+<label for="datetource" class="label">The Date</label>
+<div class="control has-icons-left">
+<input type="text" class="input input-datepicker is-medium" name="datetource" id="datetource" readonly="readonly">
+<span class="icon is-small is-left">
+<i class="far fa-calendar-alt"></i>
+</span>
+</div>
+</fieldset>
+<fieldset class="column is-one-quarter field is-marginless">
+<label for="adultsce" class="label">Adults</label>
+<div class="field has-addons has-addons-centered">
+<div class="control">
+<span class="button is-medium plus-control" data-pax="adult">+</span>
+</div>
+<div class="control">
+<input type="text" class="input is-medium is-text-center" readonly="readonly" name="adultsce" id="adultsce" value="2">
+</div>
+<div class="control">
+<span class="button is-medium less-control" data-pax="adult">-</span>
+</div>
+</div>
+</fieldset>
+<fieldset class="column is-one-quarter field is-marginless">
+<label for="childrence" class="label">Children</label>
+<div class="field has-addons has-addons-centered is-medium">
+<div class="control">
+<span class="button plus-control is-medium" data-pax="children">+</span>
+</div>
+<div class="control">
+<input type="text" class="input is-text-center is-medium" readonly="readonly" name="childrence" id="childrence" value="0">
+</div>
+<div class="control">
+<span class="button less-control is-medium" data-pax="children">-</span>
+</div>
+</div>
+</fieldset>
+<fieldset class="column field">
+<div class="control is-medium">
+<input type="submit" class="button is-medium is-fullwidth submit" value='BOOK NOW'>
+<input type="hidden" name="totalce" id="totalce" value="138">
+</div>
+</fieldset>
+</form>
+</div>
+<a class="hide-booking">Close</a>
+</div>
+</div>
+
+<header class="is-header">
+<div class="is-top-bar is-hidden-mobile">
+<div class="container">
+<div class="columns is-variable is-8">
+<div class="column is-narrow"><i class="far fa-envelope"></i> <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="2c45424a436c4f44454f4449424558564d024f4341">[email&#160;protected]</a></div>
+<div class="column is-narrow"><i class="fas fa-clock"></i> Mon-Sun: 8 AM - 5 PM</div>
+<div class="column is-narrow"><i class="fab fa-whatsapp"></i> (999) 635 4597 </div>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="is-navigation">
+<div class="columns is-multiline">
+<div class="column is-one-quarter is-one-third-mobile is-logotype">
+<a href="/" title="Chichen Itza"><img src="/public/assets/img/chichen-itza.png" alt="Chichen Itza"></a>
+</div>
+<div class="column is-menu">
+<ul>
+<li><a href="/tours" title="Chichen Itza Tours">TOURS</a></a>
+<ul>
+<li><a href="/tour" title="Chichen Itza Tour Classic">Chichen Itza Tour Classic</a></li>
+<li><a href="/express" title="Chichen Itza Tour Express">Chichen Itza Tour Express</a></li>
+<li><a href="/tour-plus" title="Chichen Itza Tour Plus">Chichen Itza Tour Plus</a></li>
+<li><a href="/deluxe-tour" title="Chichen Itza Deluxe Tour">Chichen Itza Deluxe Tour</a></li>
+<li><a href="/diamante" title="Chichen Itza Diamanate Tour">Chichen Itza Diamante Tour</a></li>
+<li><a href="/private-tour" title="Private Chichen Itza Tour">Private Chichen Itza Tour</a></li>
+<li><a href="/luxury-tour" title="Luxury Chichen Itza Tour">Luxury Chichen Itza Tour</a></li>
+</ul>
+</li>
+<li><a href="/information" title="Chichen Itza Information">CHICHEN ITZA INFO</a></a>
+<ul>
+<li><a href="/tickets" title="Chichen Itza Tickets">Tickets</a></li>
+<li><a href="/maps" title="Chichen Itza Maps">Chichen Itza Maps</a></li>
+<li><a href="/ruins" title="Chichen Itza Ruins">Chichen Itza Ruins</a></li>
+<li><a href="/history" title="Chichen Itza History">Chichen Itza History</a></li>
+<li><a href="/location" title="Location">Location</a></li>
+<li><a href="/equinox" title="Equinox">Equinox</a></li>
+<li><a href="/light-and-sound-show" title="Night Show">Night Show</a></li>
+<li><a href="/mayan-calendar" title="Mayan Calendar">Mayan Calendar</a></li>
+<li><a href="/mayan-predictions" title="Mayan Predictions">Mayan Predictions</a></li>
+</ul>
+</li>
+<li><a href="/shop">SHOP<span class="is-effect"></span></a></li>
+<li><a href="/blog">BLOG<span class="is-effect"></span></a></li>
+<li>
+<div class="dropdown is-hoverable">
+<div class="dropdown-trigger">
+<button class="button" aria-haspopup="true" aria-controls="dropdown-menu4">
+<a title="Chichen Itza in English">
+<img src="/public/assets/img/flags/flag-en.svg" alt="" class="image is-16x16 flags">
+ENGLISH
+</a>
+<span class="icon is-small">
+<i class="fas fa-angle-down" aria-hidden="true"></i>
+</span>
+</button>
+</div>
+<div class="dropdown-menu" id="dropdown-menu4" role="menu">
+<div class="dropdown-content">
+<div class="dropdown-item">
+<a href="/es/ruinas-mayas" title="Chichen Itza en Español" class="navbar-item">
+<img src="/public/assets/img/flags/flag-mx.svg" alt="" class="image is-16x16 flags">
+ESPAÑOL
+</a>
+<hr class="navbar-divider">
+<a href="/fr/ruines-mayas" title="Chichen Itza en Français" class="navbar-item">
+<img src="/public/assets/img/flags/flag-fr.svg" alt="" class="image is-16x16 flags">
+FRANCES
+</a>
+<hr class="navbar-divider">
+<a href="/pt/ruinas-maias" title="Chichen Itza em Português" class="navbar-item">
+<img src="/public/assets/img/flags/flag-pt.svg" alt="" class="image is-16x16 flags">PORTUGUES
+</a>
+<hr class="navbar-divider">
+<a href="/it/rovine-maya" title="Chichen Itza in Italiano" class="navbar-item">
+<img src="/public/assets/img/flags/flag-it.svg" alt="" class="image is-16x16 flags">
+ITALIANO
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<a id="is-mobile-button" aria-hidden="true"><i class="fas fa-stream"></i></a>
+</div>
+</div>
+</div>
+</header>
+
+<div class="is-image-head">
+<img src="/public/assets/img/ruins/chichen-itza-ruins.jpg" alt="Chichen Itza Ruins">
+<div class="is-mask"></div>
+<div class="is-title"><h1>CHICHEN ITZA RUINS<span></span></h1></div>
+</div>
+<div class="hero-body is-bg-maya">
+<div class="container">
+<div class="columns is-multiline">
+<div class="column is-10 is-offset-1 has-text-centered">
+<p class="fs-20 mb-3">Buildings at Chichen Itza are among the most impressive in the Mayan culture, having one of the New Seven Wonders of the World: El Castillo or the Kukulcan Pyramid.</p>
+<p class="fs-20 mb-6">But Chichen Itza is not only the Kukulcan Pyramid, it also has plenty of buildings with lots of history and colors.</p>
+</div>
+
+<div class="column is-full is-card-ruin">
+<div class="card">
+<div class="card-content">
+<div class="content">
+<div class="columns">
+<div class="column is-half">
+<a href="/chichen-itza-pyramid" title="Chichen Itza Pyramid">
+<img src="/public/assets/img/ruins/chichen-itza-pyramid.jpg" alt="Chichen Itza Pyramid">
+</a>
+</div>
+<div class="column is-half">
+<h3 class="mt-5"><a href="/chichen-itza-pyramid" title="Chichen Itza Pyramid">Chichen Itza Pyramid</a></h3>
+<p>The Castle or <a href="/chichen-itza-pyramid" title="Chichen Itza Pyramid">Pyramid of Kukulcan</a>. One of the tallest and most remarkable examples of Maya architecture, it was built during the high point of the Itza-Cocom culture, during the decadence of Mayapan.</p>
+<p>It is a four sided pyramid, with a rectangular temple on the top.</p>
+<a href="/chichen-itza-pyramid" title="Chichen Itza Pyramid" class="is-link">Read more <i class="fas fa-arrow-right"></i></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="column is-full is-card-ruin is-card-ruin-color">
+<div class="card">
+<div class="card-content">
+<div class="content">
+<div class="columns">
+<div class="column is-half">
+<h3 class="mt-5"><a href="/mayan-ball-game" title="Mayan Ball Game">The Ball Game</a></h3>
+<p><a href="/mayan-ball-game" title="Mayan Ball Game">The Ball Game</a> is characteristic of Mesoamerican societies. The Ball Game was more a ceremonial ritual than a sport and probably represented the symbolic recreation of the mythical combat between night and day. There is a singular acoustic phenomenon peculiar to the Ball Game Court: if one speaks in the Temple in the Southern end the voice can be heard at the opposite end, as the sound reverberates along the walls of the North Temple.</p>
+<a href="/mayan-ball-game" title="Mayan Ball Game" class="is-link">Read more <i class="fas fa-arrow-right"></i></a>
+</div>
+<div class="column is-half">
+<a href="/mayan-ball-game" title="Mayan Ball Game">
+<img src="/public/assets/img/ruins/the-ball-game.jpg" alt="The Ball Game">
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="column is-full is-card-ruin">
+<div class="card">
+<div class="card-content">
+<div class="content">
+<div class="columns">
+<div class="column is-half">
+<a href="/tzompantli" title="Tzompantli">
+<img src="/public/assets/img/ruins/tzompantli.jpg" alt="Tzompantli">
+</a>
+</div>
+<div class="column is-half">
+<h3 class="mt-5"><a href="/tzompantli" title="Tzompantli">Tzompantli</a></h3>
+<p><a href="/tzompantli" title="Tzompantli">The Tzompantli</a>. The structure is a large platform whose most notable details is the collocation of the skulls in the bas-relief decoration which gives the structure its name: The Platform of the Skulls. The base is sustained by three tableaux decorated with skulls and divided by mouldings.</p>
+<a href="/tzompantli" title="Tzompantli" class="is-link">Read more <i class="fas fa-arrow-right"></i></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="column is-full is-card-ruin is-card-ruin-color">
+<div class="card">
+<div class="card-content">
+<div class="content">
+<div class="columns">
+<div class="column is-half">
+<h3 class="mt-5"><a href="/the-platform-of-the-eagles-and-jaguars" title="Platform of the eagles and jaguars">The platform of the eagles and jaguars</a></h3>
+<p>This is a small platform with four stairways. On the base of the structure there is a vertical wall with raised panels displaying images which relate to the course of the sun across the sky during the day and its descent to the underworld at night, as “Sun of the Earth”. The eagles and jaguars symbolize the warriors who capture victims to feed the sun god.</p>
+<a href="/the-platform-of-the-eagles-and-jaguars" title="Platform of the eagles and jaguars" class="is-link">Read more <i class="fas fa-arrow-right"></i></a>
+</div>
+<div class="column is-half">
+<a href="/the-platform-of-the-eagles-and-jaguars" title="Platform of the eagles and jaguars">
+<img src="/public/assets/img/ruins/the-platform-of-the-eagles-and-jaguars-1.jpg" alt="Platform of the eagles and jaguars">
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="column is-full is-card-ruin">
+<div class="card">
+<div class="card-content">
+<div class="content">
+<div class="columns">
+<div class="column is-half">
+<a href="/venus-platform" title="The venus platform">
+<img src="/public/assets/img/ruins/venus-platform.jpg" alt="The venus platform">
+</a>
+</div>
+<div class="column is-half">
+<h3 class="mt-5"><a href="/venus-platform" title="The Ossuary">The venus platform</a></h3>
+<p>This is a square platform with stairways on each side. On the raised panels there are bas-reliefs of the planet Venus in the form of a “knot” of years, beside a half flower with asps on the petals, and the shape of the plaited mat (pop in Maya) as the symbol of power. In the recessed space Venus is depicted with jaguar claws emerging from the jaws of a plumed serpent.</p>
+<a href="/venus-platform" title="The venus platform" class="is-link">Read more <i class="fas fa-arrow-right"></i></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="column is-full is-card-ruin is-card-ruin-color">
+<div class="card">
+<div class="card-content">
+<div class="content">
+<div class="columns">
+<div class="column is-half">
+<h3 class="mt-5"><a href="/temple-of-the-warriors" title="The Ossuary">Temple of the Warriors</a></h3>
+<p>The <a href="/temple-of-the-warriors" title="Temple of the Warriors">Temple of the Warriors</a> is a structure 40 feet high and 133 feet wide. The central temple shows reliefs of warriors and eagles and jaguars devouring human hearts as well as representations of the god Tlalchitonatiuh.</p>
+<a href="/temple-of-the-warriors" title="Temple of the Warriors" class="is-link">Read more <i class="fas fa-arrow-right"></i></a>
+</div>
+<div class="column is-half">
+<a href="/temple-of-the-warriors" title="Temple of the Warriors">
+<img src="/public/assets/img/ruins/temple-of-the-warriors.jpg" alt="Temple of the Warriors">
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="column is-full is-card-ruin">
+<div class="card">
+<div class="card-content">
+<div class="content">
+<div class="columns">
+<div class="column is-half">
+<a href="/the-thousand-columns-group" title="The Thousand Columns Group">
+<img src="/public/assets/img/ruins/the-thousand-columns-group.jpg" alt="The Thousand Columns Group">
+</a>
+</div>
+<div class="column is-half">
+<h3 class="mt-5"><a href="/the-thousand-columns-group" title="The Thousand Columns Group">The Thousand Columns Group</a></h3>
+<p>This is a vast quadrangle. On the west side one can see the remains of four chambers, two of which were filled in so as to support a second floor. The columns were built between 900 A.D. and 1200 A.D. and show the remains of stucco covering, which would have been painted in different colors.</p>
+<a href="/the-thousand-columns-group" title="The Thousand Columns Group" class="is-link">Read more <i class="fas fa-arrow-right"></i></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="column is-full is-card-ruin is-card-ruin-color">
+<div class="card">
+<div class="card-content">
+<div class="content">
+<div class="columns">
+<div class="column is-half">
+<h3 class="mt-5"><a href="/the-market-place" title="The market place">The market place</a></h3>
+<p>The building traditionally known as the Market Place is set upon a platform 266 feet long and 49 feet wide. It has a central staircase with balustrades and a line of round pillars alternating with square pillars.</p>
+<a href="/the-market-place" title="The market place" class="is-link">Read more <i class="fas fa-arrow-right"></i></a>
+</div>
+<div class="column is-half">
+<a href="/the-market-place" title="The market place">
+<img src="/public/assets/img/ruins/the-market-place-chichen-itza.jpg" alt="The market place">
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="column is-full is-card-ruin">
+<div class="card">
+<div class="card-content">
+<div class="content">
+<div class="columns">
+<div class="column is-half">
+<a href="/cenote" title="The sacred cenote">
+<img src="/public/assets/img/ruins/chichen-itza-cenote.jpg" alt="The sacred cenote">
+</a>
+</div>
+<div class="column is-half">
+<h3 class="mt-5"><a href="/cenote" title="The sacred cenote">The sacred cenote</a></h3>
+<p>The Cenote is a naturally formed open well whose diameter from north to south is 165 feet, and from east to west, 200 feet. As part of the cult offered to the water god the pre-Hispanic Maya made ceremonial offerings, throwing into the well many precious objects. Later, they introduced the practice of making human sacrifices. </p>
+<a href="/cenote" title="The sacred cenote" class="is-link">Read more <i class="fas fa-arrow-right"></i></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="column is-full is-card-ruin is-card-ruin-color">
+<div class="card">
+<div class="card-content">
+<div class="content">
+<div class="columns">
+<div class="column is-half">
+<h3 class="mt-5"><a href="/the-steam-bath" title="The Steam Bath">The Steam Bath</a></h3>
+<p>The steam bath still conserves part of the flat roof, as well as the remains of four columns in the portico and some stone slab seats placed against the façade. A narrow opening gives access to the inside, where there are stone slabs for the bathers to sit on.</p>
+<a href="/the-steam-bath" title="The Steam Bath" class="is-link">Read more <i class="fas fa-arrow-right"></i></a>
+</div>
+<div class="column is-half">
+<a href="/the-steam-bath" title="The Steam Bath">
+<img src="/public/assets/img/ruins/the-steam-bath-chichen-itza-1.jpg" alt="The Steam Bath">
+</a>
+</div>
+</div>
+</div>
+ </div>
+</div>
+</div>
+
+<div class="column is-full is-card-ruin">
+<div class="card">
+<div class="card-content">
+<div class="content">
+<div class="columns">
+<div class="column is-half">
+<a href="/ossuary" title="The Ossuary">
+<img src="/public/assets/img/ruins/ossuary.jpg" alt="The Ossuary">
+</a>
+</div>
+<div class="column is-half">
+<h3 class="mt-5"><a href="/ossuary" title="The Ossuary">The Ossuary</a></h3>
+<p>This is a pyramid with nine stepped blocks and with a staircase on each of the four sides, with balustrades carved with interlocking serpents that lead to a temple at the top, whose entrance proudly displays two serpent columns.</p>
+<a href="/ossuary" title="The Ossuary" class="is-link">Read more <i class="fas fa-arrow-right"></i></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="column is-full is-card-ruin is-card-ruin-color">
+<div class="card">
+<div class="card-content">
+<div class="content">
+<div class="columns">
+<div class="column is-half">
+<h3 class="mt-5"><a href="/the-house-of-the-deer" title="The House of the Deer">The House of the Deer</a></h3>
+<p>Above the roof the remains of the crest are barely conserved. The name of the templer, according to tradition, comes from a painting of a deer in the interior, that has now disappeared. From what remains to be seen today it seems possible that he building suffered from a water tract that washed away the stucco from the walls, where this painting might have been.</p>
+<a href="/the-house-of-the-deer" title="The House of the Deer" class="is-link">Read more <i class="fas fa-arrow-right"></i></a>
+</div>
+<div class="column is-half">
+<a href="/the-house-of-the-deer" title="The House of the Deer">
+<img src="/public/assets/img/ruins/the-house-of-the-deer-chichen-itza.jpg" alt="The House of the Deer">
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="column is-full is-card-ruin">
+<div class="card">
+<div class="card-content">
+<div class="content">
+<div class="columns">
+<div class="column is-half">
+<a href="/the-chinchanchob" title="The Chichanchob or Red House">
+<img src="/public/assets/img/ruins/the-chinchanchob.jpg" alt="The Chichanchob or Red House">
+</a>
+</div>
+<div class="column is-half">
+<h3 class="mt-5"><a href="/the-chinchanchob" title="The Chichanchob or Red House">The Chichanchob or Red House</a></h3>
+<p><a href="/the-chinchanchob" title="The Chichanchob or Red House">The Chinchanchob</a> is set on a rectangular platform with rounded corners. A stairway without balustrades provides access to the temple at the top with two crests, one at the front and one on the central part of the roof. The front crest is decorated with alternating fret patterns and masks of Chaac above the entrances. The style of the building corresponds to that of the Puuc Region.</p>
+<a href="/the-chinchanchob" title="The Chichanchob or Red House" class="is-link">Read more <i class="fas fa-arrow-right"></i></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="column is-full is-card-ruin is-card-ruin-color mb-6">
+<div class="card">
+<div class="card-content">
+<div class="content">
+<div class="columns">
+<div class="column is-half">
+<h3 class="mt-5"><a href="/the-church" title="The Church">The Church</a></h3>
+<p>This square building, with a crest on the roof, has one single vaulted room. The façade displays a profuse and symmetrical ornamentation of stone mosaic in the upper part and beneath, a moulding of stepped fret shapes. Next, comes the frieze with a mask of Chaac in the middle. </p>
+<a href="/the-church" title="The Church" class="is-link">Read more <i class="fas fa-arrow-right"></i></a>
+</div>
+<div class="column is-half">
+<a href="/the-church" title="The Church">
+<img src="/public/assets/img/ruins/the-church-chichen-itza.jpg" alt="The Nuns’ House">
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="column is-half is-card-ruin mb-6">
+<div class="card">
+<div class="card-content">
+<div class="content">
+<h3><a href="/the-south-group" title="The South Group">The South Group</a></h3>
+<p>The southern group belongs to old Chichen and is a complex of buildings located in the jungle, to the south of the group made up by the Observatory and the Nunnery. The buildings of the southern group were constructed between the 7th and the 10th centuries AD and correspond to the Puuc architectural style. The most important are the Temples of the First Series, of the Phalluses, of the Owls and of the Atlases.</p>
+<a href="/the-south-group" title="The South Group" class="is-link">Read more <i class="fas fa-arrow-right"></i></a>
+</div>
+</div>
+</div>
+</div>
+
+<div class="column is-half is-card-ruin is-card-ruin-color">
+<div class="card">
+<div class="card-content">
+<div class="content">
+<h3><a href="/the-east-annex-of-the-nunnery" title="The East Annex of the Nunnery">The East Annex of the Nunnery</a></h3>
+<p>This structure has the most beautiful frieze in Chichen Itza, with a vast number of masks of the god Chaac on the sides. All the facades of the Annex are decorated, in keeping with the Chenes style.</p>
+<a href="/the-east-annex-of-the-nunnery" title="The East Annex of the Nunnery" class="is-link">Read more <i class="fas fa-arrow-right"></i></a>
+</div>
+</div>
+</div>
+</div>
+
+<div class="column is-full">
+<h3 class="mt-5 mb-5"><a href="/el-caracol" title="El caracol Chichen Itza">El caracol Chichen Itza</a></h3>
+<p class="mb-4">This building, one of the few circular structures built by the Maya, is believed to have been used for astronomical observations, throught openings in the top of the tower.</p>
+<p class="mb-4">The so-called Caracol or Observatory is a structure built in the form of a larger circular tower set on a platform with a central staircase. The base is set on another rectangular platform, decorated with a cornice of rounded corners on the upper part. The Caracol is really built of three superimposed buildings.</p>
+<p class="mb-4">The first part of the cylindrical tower is formed by two concentric walls which enclose a pair of circular chambers each with four doorways.</p>
+<p class="mb-4">The second level comprises the cornice of the first level and a second, narrower one, which frames a frieze. Above the doors, the frieze has a mask o Chaac and a seated figure, framed with motifs made of feathers and serpents.</p>
+<p class="mb-4">The third and fourth parts of the tower have deteriorated, but a series of openings or windows can still be glimpsed which perhaps served for making astronomical observations.</p>
+<p class="mb-4">On the west side of the larger base there is a staircase whose balustrades are adorned with intertwining serpents´ heads.</p>
+<p class="mb-4">The total height of the monument is 75 feet. The structure was constructed during the first period of the Military city.</p>
+<div class="columns">
+<div class="column is-half">
+<figure class="image box mb-6">
+<img src="/public/assets/img/ruins/el-caracol-chichen-itza.jpg" alt="El caracol Chichen Itza">
+</figure>
+<h3 class="is-block mb-5">Mayan Astronomy</h3>
+<p class="fs-18 mb-3">The Maya Studied the sun, the moon and Venus, and their observations included some visible bodies such as Mercury, Mars and other stars.</p>
+<p class="fs-18 mb-3">Their priests, the greatest astronomers of the time, succeeded in calculating solar and lunar eclipses, the rising and setting of Venus and the movements of stars and planets, as well as the solar year, with great accuracy.</p>
+<p class="fs-18 mb-6">Even today, scientists are amazed at the development of Mayan astronomy. For the ancient Maya, astronomy and cosmogony were closely linked in their mythical conception of the universe.</p>
+<figure class="image box mb-6">
+<img src="/public/assets/img/ruins/mayan-astronnomy.jpg" alt="Chichen Itza Mayan Astronnomy">
+</figure>
+</div>
+<div class="column is-half">
+<figure class="image box mb-6">
+<img src="/public/assets/img/ruins/chichen-itza-observatory.jpg" alt="Chichen Itza Observatory">
+</figure>
+<h3 class="is-block mb-5">The Lords of Time</h3>
+<p class="fs-18 mb-6">Known as the “Lords of Time”, the Maya were unique in elevating to the rank of gods not only the idea of time, but also the periods into which it is divided. They represented time as supernatural beings whose mission was to maintain order in the universe. The Mayan gods of time completed their life cycle in a constant circular movement beginning with their birth, developing with the manifestation of their characteristics, and finishing with their death. They were then re-born and a new cycle of birth and death was begun.</p>
+<figure class="image box mb-6">
+<img src="/public/assets/img/ruins/the-mayan-lords-of-time.jpg" alt="The mayan lords of time">
+</figure>
+</div>
+</div>
+</div>
+
+<div class="column is-full">
+<h3 class="mt-5 mb-5"><a href="/the-nuns-house" title="THE NUNS’ HOUSE">THE NUNS’ HOUSE</a></h3>
+<p class="mb-4">This is one of the most imposing of all the architectural groups in Chichen itza.</p>
+<p class="mb-4">The main façade of the complex faces north, and comprises three buildings: The Nuns’, the East Annex and the Southeast Annex. The three date from different periods of construction.</p>
+<p class="mb-4">The Nuns’ Building stood on a base that is now no longer visible, the main section of the building is 33 ft high, with a central staircase on the north side, which led to the upper temple. The temple has a profusely decorated façade, in the Chenes style.</p>
+<p class="mb-4">To the left of the tall, heavy structure is the square building called The Church, with the Annex of the Nunnery, and a small Ball Court. Owing to the great number of rooms that divide the upper temples the explorers during the Colonial Period believed that the building would have served as a cloister for the training of priestesses.</p>
+<div class="column is-half is-offset-3">
+<figure class="image box mb-6 ">
+<img src="/public/assets/img/ruins/the-nunnery-chichen-itza-2.jpg" alt="The Nuns’ House Chichen Itza">
+</figure>
+</div>
+</div>
+
+<div class="column is-full">
+<h3 class="mt-5 mb-5"><a href="/the-akab-dzib" title="THE AKAB DZIB">THE AKAB DZIB</a></h3>
+<p class="mb-4">The Akab Dzib consists of one central building and two rooms. Later two buildings were annexed, each with eight rooms. The three groups are roofed with the Maya vault or false arch. In total the three buildings have eighteen rooms.</p>
+<p class="mb-4">The east façade shows some blocks or seats of well-cut stone.</p>
+<div class="column is-half is-offset-3">
+<figure class="image box mb-6 ">
+<img src="/public/assets/img/ruins/akab-dzib-chichen-itza.jpg" alt="The Akab Dzib">
+</figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<footer class="is-footer">
+<div class="hero-body">
+
+<div class="is-links">
+<div class="container">
+<div class="columns is-multiline">
+<div class="column is-one-quarter">
+
+<a href="/"><img src="/public/assets/img/chichen-itza.png" alt="ChichenItza.com logo"></a>
+<div class="is-item">
+<i class="fas fa-map-marker-alt"></i>
+<span>Yucatan</span>
+<span>Mexico</span>
+</div>
+<div class="is-item">
+<i class="fas fa-fax"></i>
+<span>1 888 2340 557</span>
+</div>
+<div class="is-item">
+<i class="far fa-envelope"></i>
+<span><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="7a13141c153a19121319121f14130e001b54191517">[email&#160;protected]</a></span>
+</div>
+<div class="is-item">
+<i class="fas fa-clock"></i>
+<span>Mon-Fri: 8 AM - 5 PM</span>
+</div>
+<div class="column is-one-quarter">
+<strong class="is-title">LANGUAGES</strong>
+<ul class="is-list-links">
+<li><a href="/es" title="Chichen Itza Spanish site">Español</a></li>
+<li><a href="/fr">Français</a></li>
+<li><a href="/pt">Português</a></li>
+<li><a href="/it" title="Chichen Itza in Italiano">Italiano</a></li>
+</ul>
+</div>
+</div>
+<div class="column is-one-quarter">
+<strong class="is-title">INFORMATION</strong>
+<ul class="is-list-links">
+<li><a href="/" title="Chichen Itza">Home</a></li>
+<li><a href="/tickets" title="Chichen Itza Tickets">Tickets</a></li>
+<li><a href="/destinations" title="Get to Chichen Itza">Destinations</a></li>
+<li><a href="/contact" title="Chichen Itza Contact">Contact</a></li>
+<li><a href="/affiliate-marketing-program" title="Affiliates Marketing Program">Affiliates</a></li>
+<li><a href="/site-map" title="Chichen Itza Sitemap">Sitemap</a></li>
+<li><a href="/privacy-policy">Privacy Policy</a></li>
+<li><a href="#">Terms and conditions</a></li>
+<li><a href="/mayan-calendar">Mayan Calendar</a></li>
+<li><a href="/mayan-predictions">Mayan Predictions</a></li>
+<li><a href="/faqs" title="Chichen Itza Faqs">FAQs</a></li>
+</ul>
+</div>
+<div class="column is-one-quarter">
+<strong class="is-title"><a href="/" title="Chichen Itza" class="has-text-black">CHICHEN ITZA</a></strong>
+<ul class="is-list-links">
+<li><a href="/history" title="Chichen Itza History">History</a></li>
+<li><a href="/maps" title="Chichen Itza Location">Location</a></li>
+<li><a href="/ruins" title="Chichen Itza Ruins">Ruins</a></li>
+<li><a href="/tours" title="Chichen Itza Tours">Tours</a></li>
+<li><a href="/world-heritage" title="World Heritage Chichen Itza">World Heritage Chichen Itza</a></li>
+<li><a href="/light-and-sound-show" title="Kukulkan Nights">Light And Sound Show</a></li>
+<li><a href="/equinox" title="Equinox in Chichen Itza">Equinox</a></li>
+<strong class="is-title is-margin-title">FOLLOW US</strong>
+<div class="is-social">
+<a href="https://www.facebook.com/ChichenItzaMayanRuins" target="_blank" title="Follow us on Facebook" rel="noopener noreferrer nofollow"><i class="fab fa-facebook-f"></i></a>
+<a href="https://twitter.com/ChichenItza_" target="_blank" title="Follow us on Twitter" rel="noopener noreferrer nofollow"><i class="fab fa-twitter"></i></a>
+<a href="https://www.instagram.com/chichenitza_/" target="_blank" title="Follow us on Instagram" rel="noopener noreferrer nofollow"><i class="fab fa-instagram"></i></a>
+<a href="https://www.youtube.com/channel/UCuY9Tw9G6XDcvggQpgm8Jew" target="_blank" title="Follow us on Youtube" rel="noopener noreferrer nofollow"><i class="fab fa-youtube"></i></a>
+<a href="https://www.linkedin.com/company/chichen-itza " target="_blank" title="Follow us on LinkedIn" rel="noopener noreferrer nofollow"><i class="fab fa-linkedin-in"></i></a>
+<a href="https://www.pinterest.com.mx/chichenitzamayansite" target="_blank" title="Follow us on Pinterest" rel="noopener noreferrer nofollow"><i class="fab fa-pinterest"></i></a>
+<a href="https://www.tripadvisor.com/Attraction_Review-g150808-d153407-Reviews-Chichen_Itza-Chichen_Itza_Yucatan_Peninsula.html" target="_blank" title="Follow us on Tripadvisor" rel="noopener noreferrer nofollow"><i class="fab fa-tripadvisor"></i></a>
+<a href="https://www.yelp.com/biz/chichen-itza-chich%C3%A9n-itz%C3%A1-3" target="_blank" title="Follow us on Yelp" rel="noopener noreferrer nofollow"><i class="fab fa-yelp"></i></a>
+<a href="https://www.google.com/maps/place/Chich%C3%A9n+Itz%C3%A1/@20.6842849,-88.5699713,17z/data=!3m1!4b1!4m5!3m4!1s0x8f5138c6e391c0e7:0x7c1ea0a168994d9a!8m2!3d20.6842849!4d-88.5677826" target="_blank" title="Locate us on Google Maps" rel="noopener noreferrer nofollow"><i class="fas fa-map-marker-alt"></i></a>
+<a href="https://g.page/chichen-itza-tour?gm" target="_blank" rel="noopener noreferrer nofollow"><i class="fab fa-google"></i></a>
+</div>
+
+
+</ul>
+</div>
+<div class="column is-one-quarter">
+<strong class="is-title"><a href="/tours" title="Chichen Itza Tours" class="has-text-black">TOURS</a></strong>
+<ul class="is-list-links">
+<li><a href="/tour" title="Chichen Itza Classic">Classic</a></li>
+<li><a href="/express" title="Chichen Itza Express">Express</a></li>
+<li><a href="/tour-plus" title="Chichen Itza Tour Plus">Plus</a></li>
+<li><a href="/deluxe-tour" title="Chichen Itza Tour Deluxe">Deluxe</a></li>
+<li><a href="/diamante" title="Chichen Itza Tour Diamante">Diamante</a></li>
+<li><a href="/mayan-cuisine-tour" title="Chichen Itza Mayan Cusine">Mayan Cusine</a></li>
+<li><a href="/mayan-cuisine-plus-tour" title="Chichen Itza Mayan Cusine Plus">Mayan Cusine Plus</a></li>
+<li><a href="/private-tour" title="Chichen Itza Tour Private">Private</a></li>
+<li><a href="/luxury-tour" title="Chichen Itza Tour Luxury">Luxury</a></li>
+<li><a href="/excursions" title="Chichen Itza Excursions">Excursions</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="is-by">
+<span>© 2022 All rights reserved.<li><a href="/">Chichen Itza</a></li> </span>
+</div>
+</footer>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script defer src="/public/assets/js/jquery-3.4.1.min.js"></script>
+<script defer src="/public/assets/js/jquery-1.9.0.min.js"></script>
+<script defer src="/public/assets/js/jQuery.paginate.js"></script>
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XLYDF6BSWS"></script>
+
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
+<script>
+ window.dataLayer = window.dataLayer || [];
+ function gtag(){dataLayer.push(arguments);}
+ gtag('js', new Date());
+
+ gtag('config', 'G-XLYDF6BSWS');
+ gtag('config', 'AW-10975065240');
+</script>
+
+<script type="text/javascript">
+(function() {
+var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+sc.src = '//customs.affilired.com/track/?merchant=4817';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+})();
+</script>
+
+
+<script defer src="/public/assets/js/app-min.js?v=3.2.0"></script>
+<script defer src="/public/assets/js/libs.js?v=3.2.0"></script>
+</body>
+</html>
