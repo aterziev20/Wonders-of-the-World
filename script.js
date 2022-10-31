@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-  const gallery = document.getElementById("gallery");
+  const gallery = document.querySelector(".gallery");
 
   window.onmousemove = (e) => {
     const mouseX = e.clientX;
