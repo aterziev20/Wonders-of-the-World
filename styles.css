@@ -5,6 +5,25 @@ body {
   overflow: hidden;
 }
 
+#preloader {
+  position: fixed;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+
+  background-color: #0a0a0a;
+  height: 100vh;
+  width: 100%;
+  line-height: 100vh;
+
+  color: #fefae0;
+  font-size: 50px;
+  font-family: 'Garamond', serif;
+  text-transform: uppercase;
+  font-weight: 1000px;
+  z-index: 100000;
+}
+
 .content {
   position: fixed;
   top: 50%;
@@ -14,8 +33,7 @@ body {
 
   color: #fefae0;
   font-size: 50px;
-  font-family: "GeoBrandBlack", "CenturyGothic", "AppleGothic", "Gill Sans",
-    "Gill Sans MT", sans-serif;
+  font-family: 'Garamond', serif;
   text-transform: uppercase;
   font-weight: 1000px;
 }

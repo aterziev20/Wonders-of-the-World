@@ -1,4 +1,9 @@
 document.addEventListener("DOMContentLoaded", function () {
+  let loader = document.querySelector("#preloader");
+  window.addEventListener("load", () => {
+    loader.style.display = "none";
+  });
+
   const gallery = document.querySelector(".gallery");
 
   window.onmousemove = (e) => {
