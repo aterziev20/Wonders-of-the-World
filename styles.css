@@ -18,7 +18,7 @@ body {
 
   color: #fefae0;
   font-size: 50px;
-  font-family: 'Garamond', serif;
+  font-family: "Garamond", serif;
   text-transform: uppercase;
   font-weight: 1000px;
   z-index: 100000;
@@ -28,12 +28,11 @@ body {
   position: fixed;
   top: 50%;
   left: 50%;
-  /* bring your own prefixes */
   transform: translate(-50%, -50%);
 
   color: #fefae0;
   font-size: 50px;
-  font-family: 'Garamond', serif;
+  font-family: "Garamond", serif;
   text-transform: uppercase;
   font-weight: 1000px;
 }
@@ -47,25 +46,26 @@ body {
 .tile {
   border-radius: 1vmax;
   position: absolute;
-  transition: transform 800ms ease;
+  transition: transform 1s ease;
+  cursor: pointer;
 }
 
 .tile:hover {
   transform: scale(1.1);
 }
 
-.tile:hover > a > img {
+.tile:hover > img {
   opacity: 1;
   transform: scale(1.01);
 }
 
-.tile > a > img {
+.tile > img {
   height: 100%;
   width: 100%;
   object-fit: cover;
   border-radius: 1vmax;
-  opacity: 0;
-  transition: opacity 800ms ease, transform 800ms ease;
+  opacity: 0.2;
+  transition: opacity 1s ease, transform 1s ease;
 }
 
 .tile:nth-child(1) {
@@ -178,4 +178,99 @@ body {
   width: 14%;
   left: 33%;
   top: 33%;
+}
+
+.info {
+  position: fixed;
+  top: 0;
+  left: 0;
+  min-height: 100vh;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.8);
+  backdrop-filter: blur(25px);
+  display: none;
+  align-items: center;
+  justify-content: center;
+}
+
+.info button {
+  font-size: 60px;
+  color: #eeeeee;
+  background: transparent;
+  border: none;
+  margin: 20px;
+  cursor: pointer;
+}
+
+.info .image-info {
+  display: none;
+  padding: 2rem;
+  background: rgb(10, 10, 10, 0.7);
+  position: relative;
+  margin: 2rem;
+  width: 70%;
+  height: 30rem;
+}
+
+.info .image-info.active {
+  display: flex;
+  flex-direction: column;
+}
+
+.info .image-info img {
+  height: 30rem;
+  width: 30rem;
+  object-fit: cover;
+  border-radius: 1vmax;
+}
+
+.info .image-info .fa-xmark {
+  position: absolute;
+  top: 1rem;
+  right: 1.5rem;
+  cursor: pointer;
+  color: #4b4b4b;
+  font-size: 2rem;
+  transition: transform 0.3s ease;
+}
+
+.info .image-info .fa-xmark:hover {
+  transform: rotate(90deg);
+}
+
+.info .image-info h1 {
+  position: fixed;
+  font-family: "Garamond", serif;
+  font-size: 30px;
+  margin: 0 10% 0 35%;
+  color: #eeeeee;
+}
+
+.info .image-info p {
+  position: fixed;
+  font-family: "Garamond", serif;
+  font-size: 24px;
+  color: #eeeeee;
+  margin: 3% 17% 0 33%;
+}
+
+.info .image-info .btn-info{
+  position: fixed;
+  font-family: "Garamond", serif;
+  font-size: 16px;
+  color: #eeeeee;
+  margin: 29% 0 0 59%;
+  padding: 8px;
+  cursor: pointer;
+  transition: transform 0.3s ease, scale 0s ease;
+  text-decoration: none;
+}
+
+.info .image-info .btn-info:hover {
+  transform: scale(1.1);
+  text-decoration: underline;
+}
+
+.info .image-info .btn-info:active {
+  scale: 0.9;
 }
