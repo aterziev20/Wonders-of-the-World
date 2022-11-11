@@ -9,8 +9,9 @@ document.addEventListener("DOMContentLoaded", function () {
   // onmousemove effect
 
   const gallery = document.querySelector(".gallery");
+  const moving = document.querySelector(".movingWindow");
 
-  window.addEventListener("mousemove", (e) => {
+  moving.addEventListener("mousemove", (e) => {
     const mouseX = e.clientX;
     const mouseY = e.clientY;
 
@@ -35,7 +36,7 @@ document.addEventListener("DOMContentLoaded", function () {
     );
   });
 
-  // On click of image make another div visible
+  // On click of image make information visible
 
   let preveiwContainer = document.querySelector(".info");
   let previewBox = preveiwContainer.querySelectorAll(".image-info");
@@ -53,7 +54,7 @@ document.addEventListener("DOMContentLoaded", function () {
     };
   });
 
-  // close info
+  // close information
 
   previewBox.forEach((close) => {
     close.querySelector(".fa-xmark").onclick = () => {
@@ -62,25 +63,108 @@ document.addEventListener("DOMContentLoaded", function () {
     };
     window.onkeyup = (event) => {
       if (event.keyCode == 27) {
-        close.classList.remove("active");
-        preveiwContainer.style.display = "none";
+        if ((preveiwContainer.style.display = "none")) {
+          for (let i = 0; i < previewBox.length; i++) {
+            previewBox[i].classList.remove("active");
+          }
+        }
       }
     };
   });
 
-  // Arrows to see different image
+  // Arrows to see next or previous image
 
-  const left = document.getElementById("leftArrow");
-  const right = document.getElementById("rightArrow");
+  let previousInfo = document.querySelector("#leftArrow");
+  let nextInfo = document.querySelector("#rightArrow");
 
-  left.addEventListener("click", () => {
-    if (target > 1) {
-      target + 1;
+  previousInfo.onclick = () => {
+    if (previewBox[0].classList.contains("active")) {
+      previewBox[0].classList.remove("active");
+      previewBox[13].classList.add("active");
+    } else if (previewBox[1].classList.contains("active")) {
+      previewBox[1].classList.remove("active");
+      previewBox[0].classList.add("active");
+    } else if (previewBox[2].classList.contains("active")) {
+      previewBox[2].classList.remove("active");
+      previewBox[1].classList.add("active");
+    } else if (previewBox[3].classList.contains("active")) {
+      previewBox[3].classList.remove("active");
+      previewBox[2].classList.add("active");
+    } else if (previewBox[4].classList.contains("active")) {
+      previewBox[4].classList.remove("active");
+      previewBox[3].classList.add("active");
+    } else if (previewBox[5].classList.contains("active")) {
+      previewBox[5].classList.remove("active");
+      previewBox[4].classList.add("active");
+    } else if (previewBox[6].classList.contains("active")) {
+      previewBox[6].classList.remove("active");
+      previewBox[5].classList.add("active");
+    } else if (previewBox[7].classList.contains("active")) {
+      previewBox[7].classList.remove("active");
+      previewBox[6].classList.add("active");
+    } else if (previewBox[8].classList.contains("active")) {
+      previewBox[8].classList.remove("active");
+      previewBox[7].classList.add("active");
+    } else if (previewBox[9].classList.contains("active")) {
+      previewBox[9].classList.remove("active");
+      previewBox[8].classList.add("active");
+    } else if (previewBox[10].classList.contains("active")) {
+      previewBox[10].classList.remove("active");
+      previewBox[9].classList.add("active");
+    } else if (previewBox[11].classList.contains("active")) {
+      previewBox[11].classList.remove("active");
+      previewBox[10].classList.add("active");
+    } else if (previewBox[12].classList.contains("active")) {
+      previewBox[12].classList.remove("active");
+      previewBox[11].classList.add("active");
+    } else if (previewBox[13].classList.contains("active")) {
+      previewBox[13].classList.remove("active");
+      previewBox[12].classList.add("active");
     }
-  });
-  right.addEventListener("click", () => {
-    if (target < 1) {
-      images.length++;
+  };
+  nextInfo.onclick = () => {
+    if (previewBox[0].classList.contains("active")) {
+      previewBox[0].classList.remove("active");
+      previewBox[1].classList.add("active");
+    } else if (previewBox[1].classList.contains("active")) {
+      previewBox[1].classList.remove("active");
+      previewBox[2].classList.add("active");
+    } else if (previewBox[2].classList.contains("active")) {
+      previewBox[2].classList.remove("active");
+      previewBox[3].classList.add("active");
+    } else if (previewBox[3].classList.contains("active")) {
+      previewBox[3].classList.remove("active");
+      previewBox[4].classList.add("active");
+    } else if (previewBox[4].classList.contains("active")) {
+      previewBox[4].classList.remove("active");
+      previewBox[5].classList.add("active");
+    } else if (previewBox[5].classList.contains("active")) {
+      previewBox[5].classList.remove("active");
+      previewBox[6].classList.add("active");
+    } else if (previewBox[6].classList.contains("active")) {
+      previewBox[6].classList.remove("active");
+      previewBox[7].classList.add("active");
+    } else if (previewBox[7].classList.contains("active")) {
+      previewBox[7].classList.remove("active");
+      previewBox[8].classList.add("active");
+    } else if (previewBox[8].classList.contains("active")) {
+      previewBox[8].classList.remove("active");
+      previewBox[9].classList.add("active");
+    } else if (previewBox[9].classList.contains("active")) {
+      previewBox[9].classList.remove("active");
+      previewBox[10].classList.add("active");
+    } else if (previewBox[10].classList.contains("active")) {
+      previewBox[10].classList.remove("active");
+      previewBox[11].classList.add("active");
+    } else if (previewBox[11].classList.contains("active")) {
+      previewBox[11].classList.remove("active");
+      previewBox[12].classList.add("active");
+    } else if (previewBox[12].classList.contains("active")) {
+      previewBox[12].classList.remove("active");
+      previewBox[13].classList.add("active");
+    } else if (previewBox[13].classList.contains("active")) {
+      previewBox[13].classList.remove("active");
+      previewBox[0].classList.add("active");
     }
-  });
+  };
 });
